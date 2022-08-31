@@ -1,4 +1,4 @@
-# [DE-Kursname hier eintragen]
+# Grundlagen der Programmierung: Datenbanken
 
 Dies ist das Repository für den **LinkedIn Learning** Kurs `Grundlagen der Programmierung: Datenbanken`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
