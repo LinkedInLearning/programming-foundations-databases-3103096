@@ -2,7 +2,7 @@
 
 Dies ist das Repository für den **LinkedIn Learning** Kurs `Grundlagen der Programmierung: Datenbanken`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
-![image](https://user-images.githubusercontent.com/61017085/197175948-e66e9618-56fd-478a-9ae8-3b543ce532b7.png)
+![COURSENAME][lil-thumbnail-url] 
 
 Es spielt keine Rolle, mit welcher Programmiersprache Sie arbeiten, welches Betriebssystem Sie einsetzen, welche Art von Anwendung Sie erstellen – Datenbankkenntnisse sind in der modernen IT unverzichtbar. In diesem Video-Training fangen Sie ganz von vorne an: Was ist eine Datenbank? Welche Bestandteile muss eine Datenbank haben? Wozu setzt man sie ein?<br><br>
 
@@ -33,4 +33,4 @@ Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linke
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/grundlagen-der-programmierung-datenbanken-2
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-thumbnail-url]: https://cdn.lynda.com/course/3103096/3103096-1665666935241-16x9.jpg
